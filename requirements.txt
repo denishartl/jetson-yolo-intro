@@ -1,0 +1,11 @@
+ultralytics
+matplotlib
+pandas
+pyyaml
+requests
+tqdm
+psutil
+py-cpuinfo
+seaborn
+ultralytics-thop
+ipywidgets
