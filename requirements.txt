@@ -9,3 +9,6 @@ py-cpuinfo
 seaborn
 ultralytics-thop
 ipywidgets
+polars
+scipy
+torchvision
